@@ -48,7 +48,7 @@ int p4q6() {
 
 //Q7
 void addQuestion() {
-	FILE* fptr;
+	FILE *fptr;
 	FILE* fptr2;
 	char question[100], answer[100], reply;
 

@@ -57,5 +57,17 @@
     <ClCompile Include="P5Q1.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="p6q1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="P7Q1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="P7Q2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="P7Q3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

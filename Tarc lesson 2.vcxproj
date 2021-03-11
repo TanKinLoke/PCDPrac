@@ -136,6 +136,10 @@
     <ClCompile Include="P4Q3.c" />
     <ClCompile Include="P4Q6.c" />
     <ClCompile Include="P5Q1.c" />
+    <ClCompile Include="p6q1.cpp" />
+    <ClCompile Include="P7Q1.c" />
+    <ClCompile Include="P7Q2.c" />
+    <ClCompile Include="P7Q3.c" />
     <ClCompile Include="tut2q1.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

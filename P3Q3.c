@@ -6,7 +6,7 @@
 void displayRecords();
 void addRecords();
 
-int p3q3() {
+int p2q3() {
 	addRecords();
 	displayRecords();
 

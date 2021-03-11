@@ -1,2 +1,2 @@
-D3001|Tan Kin Loke|1.00
-D3002|Bryan Lai|4.00
+WAD0001DIA|Thomson Lee Ah Beng|3.50
+WAD0002DCN|Alex Ho Chin Chye|2.60

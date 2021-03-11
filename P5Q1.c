@@ -18,7 +18,7 @@ typedef struct {
 } Product;
 int modifiedProd;
 
-int main() {
+int p5q1() {
 	int option;
 	modifiedProd = 0;
 

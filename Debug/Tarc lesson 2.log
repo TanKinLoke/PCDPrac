@@ -1,3 +1,5 @@
-﻿  P5Q1.c
-c:\users\nelson\source\repos\tarc lesson 2\tarc lesson 2\p5q1.c(177): warning C4101: 'continueOption': unreferenced local variable
+﻿  P7Q2.c
+  P7Q3.c
+c:\users\nelson\source\repos\tarc lesson 2\tarc lesson 2\p7q3.c(36): warning C4101: 'result': unreferenced local variable
+  Generating Code...
   Tarc lesson 2.vcxproj -> C:\Users\Nelson\source\repos\Tarc lesson 2\Debug\Tarc lesson 2.exe

@@ -3,7 +3,7 @@
 #pragma warning (disable:4996)
 
 typedef struct {
-	char studentID[6];
+	char studentID[11];
 	char studentName[20];
 	double cgpa;
 } Student;
